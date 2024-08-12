@@ -192,6 +192,7 @@ a {text-decoration: none;}
 @media screen and (max-width: 767px) {
 .row-1 { overflow: hidden; }
 .row-1 .bg-0 { display: block !important;right: -70px; top: -80px; z-index: 1; }
+.row-1 .div-0 { width: 280px; position: relative; }
 .row-1 .group-1 { padding: 80px 20px;background-image: url(images/bg-320.png); background-size: 320px; } 
 .row-1 .group-2 { padding: 0 40px 0 40px;width: 320px; } 
 .row-1 .group-2 .item { width: 236px; }
